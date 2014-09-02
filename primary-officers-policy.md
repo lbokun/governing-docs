@@ -47,7 +47,7 @@ Committees
 The SSE has 8 committees:
 
 ### Mentoring
-Head: Benjin Dubishar
+Head: Brian Besmanoff
 
 Goals:
 
@@ -60,7 +60,7 @@ Goals:
   methods and knowledge over information to a specific application
 
 ### Public Relations
-Head: Kocsen Chung
+Head: Conor Wright
 
 Goals:
 
@@ -77,7 +77,7 @@ Goals:
   * Attempt to get people connected in hopes for getting them jobs! ● Keep CO­OP office in the loop
 
 ### Technology
-Head: Dan Wallach
+Head: Katherine Whitlock
 
 Goals:
 
@@ -85,7 +85,7 @@ Goals:
 * Support projects and other technology needs within the Society
 
 ### Events
-Head: John Renner
+Head: Kocsen Chung
 
 Goals:
 
@@ -96,7 +96,7 @@ Goals:
 * Hold more smaller events
 
 ### Fundraising
-Head: Shayde Nofziger
+Head: Matt Metcalf
 
 Goals:
 
@@ -107,7 +107,7 @@ Goals:
 * Develop an organized process for purchasing and sales.
 
 ### Lab Upkeep
-Head: Steven Brunwasser
+Head: Robert McLaughlin
 
 Goals:
 
@@ -116,7 +116,7 @@ Goals:
 * Hold events to improve the aesthetics of the lab
 
 ### Projects
-Head: Michael Timbrook
+Head: Morgan Cabral
 
 Goals:
 
@@ -125,15 +125,9 @@ Goals:
 * Have weekly meetings for larger projects and bi-monthly meetings for smaller
   projects.
 
-### Talks
-Head: Kristen Mills
-
-Goals:
-
-* Have some form of a talk at every meeting.
-* Schedule at least 1 vise talk per semester
-* Have rand talks so that people who aren’t in technical majors can give talks
-* Have all talks recorded and put on the website
+### Winterball
+Head: Melissa Young
+Goals: 
 
 
 Membership
