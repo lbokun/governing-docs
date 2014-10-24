@@ -51,30 +51,17 @@ Head: Brian Besmanoff
 
 Goals:
 
-* Work with mentors and past mentoring heads to adapt the review session tests
-  to the semester-course curricula.
-* Work with professors to better understand the adaptations of the
-  quarter-courses to the semester-courses
-* Continue working with mentors and head of lab upkeep to keep the lab clean 
-* Work with mentors for a less-direct tutoring method that stresses teaching
-  methods and knowledge over information to a specific application
+* Increase awareness of mentoring events
+* Increase attendance at events
+* Adapt the test cabinet to semesters
 
 ### Public Relations
 Head: Conor Wright
 
 Goals:
 
-* Manage and Successfully carry open houses
-* Help Faculty with any events within reasonable excuse
-* Concrete a PR Committee which will:
-  * Meet regularly (weekly at best)
-  * Provide with an Agent during general Hours in the Lab (10­4)
-  * Aid in events and managing connections
-* Manage, create and advertise events for companies at RIT
-* Provide the Lab with as much free pizza and swag as companies can supply
-* Make new connections by reaching out to new companies
-* Attend career fair
-  * Attempt to get people connected in hopes for getting them jobs! ● Keep CO­OP office in the loop
+* Encourage lots of incoming freshman to join the sse. 
+* Get lots of companies to come visit
 
 ### Technology
 Head: Katherine Whitlock
@@ -89,11 +76,9 @@ Head: Kocsen Chung
 
 Goals:
 
-* Build a committee to help run events
-* Delegate larger aspects of events to other committee members
-* Be present for as many events as possible
-* Keep members better informed about events that are happening.
-* Hold more smaller events
+* Successfully form a commitee and commitee structure to take care of talks and managing/creating events
+* Keep an event history with data such as cost/event or attendance/event
+* (Secondary goal) Come up with an awesome place where people can create events!
 
 ### Fundraising
 Head: Matt Metcalf
@@ -111,9 +96,10 @@ Head: Robert McLaughlin
 
 Goals:
 
-* Set up a routine and guidelines for keeping the lab neat and orderly
-* Build a committee dedicated to organizing the lab
-* Hold events to improve the aesthetics of the lab
+* Work as a liaison between the SSE and RIT FMS
+* Keep the lab generally looking tidy
+* Keep the lab organized to allow people to have easy access to the lab's resources
+* Keep the lab's resources (such as paper, napkins etc) stocked and working
 
 ### Projects
 Head: Morgan Cabral
@@ -129,7 +115,10 @@ Goals:
 Head: Melissa Young
 
 Goals: 
-
+* Stay in budget
+* Invite people
+* Get swag
+* Throw a bitchin' Winter Ball
 
 Membership
 ----------
