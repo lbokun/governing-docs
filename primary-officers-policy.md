@@ -64,7 +64,7 @@ Goals:
 * Get lots of companies to come visit
 
 ### Technology
-Head: Katherine Whitlock
+Head: Nick McCurdy
 
 Goals:
 
